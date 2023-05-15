@@ -59,8 +59,8 @@ img {
 
 .container {
   /*======= create a width property. Set the value to 605px */
-  width: 605px;
   margin: 0 auto;
+  width: 605px;
 }
 
 .container header nav a {
@@ -73,7 +73,6 @@ img {
   text-decoration: none;
   /*======= create a background property. Set the value to #F87B99 */
   background: #F87B99;
-  margin-bottom: 20px;
 }
 
 .container header nav a:hover {

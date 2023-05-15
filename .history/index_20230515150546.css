@@ -54,13 +54,13 @@ img {
 
 .content-row div {
   /*======= create a margin propery.  Set the value to 20px */
-  margin: 20px;
+  margin: 20px,
 }
 
 .container {
   /*======= create a width property. Set the value to 605px */
-  width: 605px;
   margin: 0 auto;
+  width: 605px;
 }
 
 .container header nav a {
@@ -71,9 +71,9 @@ img {
   border-radius: 20px;
   color: white;
   text-decoration: none;
+  margin-bottom: 20px;
   /*======= create a background property. Set the value to #F87B99 */
   background: #F87B99;
-  margin-bottom: 20px;
 }
 
 .container header nav a:hover {
@@ -133,7 +133,7 @@ footer nav {
   text-decoration: underline;
 */
 
-footer a {
+footer a{
   margin: 10px;
   color: black;
   text-decoration: underline;
@@ -146,10 +146,10 @@ footer nav a:first-child {
 /*======= Create a hover state for the anchor tag in the footer nav to have the following styles:
   color: white;
 */
-footer a:hover {
+*/
+footer a:hover{
   color: white;
 }
-
 footer .footer-content .copyright {
   padding: 20px 0;
   /*======= center the text here */
