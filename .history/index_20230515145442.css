@@ -102,9 +102,6 @@ section .about {
 /*======= Create a selector for the address tag in the contact-section class to have the following styles:
    line-height: 2;
 */
-address .contact-section{
-  line-height: 2;
-}
 
 footer {
   width: 100%;
