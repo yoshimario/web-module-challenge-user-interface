@@ -133,12 +133,7 @@ footer nav {
   text-decoration: underline;
 */
 
-footer a{
-  margin: 10px;
-  color: black;
-  text-decoration: underline;
-}
-
+anchor
 footer nav a:first-child {
   margin-left: 0;
 }
