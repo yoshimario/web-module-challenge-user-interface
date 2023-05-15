@@ -54,13 +54,11 @@ img {
 
 .content-row div {
   /*======= create a margin propery.  Set the value to 20px */
-  margin: 20px
 }
 
 .container {
   /*======= create a width property. Set the value to 605px */
   margin: 0 auto;
-  width: 605px;
 }
 
 .container header nav a {
