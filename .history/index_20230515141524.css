@@ -80,7 +80,7 @@ img {
   /*======= create a background property and set it to white.  Then create a color property and set it's value to pink. */
 }
 background: white;
-color: pink;
+color;
 /*======= Create a selector for the about section to have the following styles:
   margin-top: 20px;
 */
